@@ -22,10 +22,11 @@
 
 
 # 🌍 The Reality 
-#### Canada, and allied nations, are waking up and realizing that there systems are valnurable by offshore supply chains and supply chain attacks.
+### Canada, and allied nations, are waking up and realizing that there systems are valnurable by offshore supply chains and supply chain attacks.
+#### Let's look at the current drones:
 * DJI (China) controlls and dominates the global drone market.
 * ARM (UK/Japan) designs the CPUs in most drones.
 * TSMC (Taiwan) manufactures the chips.
 * GPS (US) is controlled by the Pentagon.
-#### A drone built from these components is a drones that can be:
-* 
+### A drone built from these components is a drones that can be backdoored, sancitioned, spied on and disabled.
+### This project is a fully Canadian-engineered response to the problem. It proves everyone that a independent drone doesnt need to be built in a million dollar lab, but can be built in a bedroom with open-source tools.
